@@ -27,10 +27,5 @@ function renderLeads() {
             </li>
         ` 
     }
-<<<<<<< HEAD
     ulEl.innerHTML = listItems  
 }
-=======
-    ulEl.innerHTML = listItems 
-}
->>>>>>> 24fb7795fcb7980847496a2881dcff0117415e4b
